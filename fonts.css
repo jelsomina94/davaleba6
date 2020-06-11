@@ -1,11 +1,22 @@
 @font-face {
   font-family: 'Roboto';
-  src: url('./font/Roboto-Medium.eot');
-  src: url('./font/Roboto-Medium.eot?#iefix') format('embedded-opentype'),
-       url('./font/Roboto-Medium.svg#Roboto-Medium') format('svg'),
-       url('./font/Roboto-Medium.ttf') format('truetype'),
-       url('./font/Roboto-Medium.woff') format('woff'),
-       url('./font/Roboto-Medium.woff2') format('woff2');
+  src: url('./fonts/Roboto-Medium.eot');
+  src: url('./fonts/Roboto-Medium.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/Roboto-Medium.svg#Roboto-Medium') format('svg'),
+       url('./fonts/Roboto-Medium.ttf') format('truetype'),
+       url('./fonts/Roboto-Medium.woff') format('woff'),
+       url('./fonts/Roboto-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'myriad';
+  src: url('./fonts/MyriadPro-Regular.eot');
+  src: url('./fonts/MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg'),
+       url('./fonts/MyriadPro-Regular.ttf') format('truetype'),
+       url('./fonts/MyriadPro-Regular.woff') format('woff'),
+       url('./fonts/MyriadPro-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
